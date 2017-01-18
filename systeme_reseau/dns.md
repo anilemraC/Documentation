@@ -1,15 +1,21 @@
 # Doc DNS
+
 Consigne 
 ● Configurer le nom de domaine fraichement acheté et faites le pointer sur votre serveur
 d’îlot, vous devrez de plus configurer votre serveur pour que votre site soit accessible
 depuis celui-ci.
+
 Nom de domaine: code-closet.com
+
 Dans le compte OVH, onglet Zone DNS, puis carrés à droite DNS+ Ajouter une entrée
 Créer le sous-domaine "carmelina.code-closet.com" et le faire pointer (CNAME) sur code-closet.com
+
  Pour configurer le serveur:
 Dans bash -> connexion SSH: root@code-closet.com + mot de passe 2JCxOmxG
 cd /etc/apache2/sites-available/
 Puis éditer le fichier: nano carmelina.conf pour changer le nom du serveur avec ctrl o (écrire)
+
+```
 carmelina.napolitano@PC-DG-CAMPUS-22 MINGW64 ~
 $ ssh root@code-closet.com
 The authenticity of host 'code-closet.com (51.255.51.212)' can't be established.
@@ -68,6 +74,8 @@ root@vps355203:/etc/apache2/sites-available# nano carmelina.conf
 root@vps355203:/etc/apache2/sites-available# service apache2 restart
 root@vps355203:/etc/apache2/sites-available# nano carmelina.conf
 root@vps355203:/etc/apache2/sites-available#
+
+```
 
 
 
