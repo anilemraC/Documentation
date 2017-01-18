@@ -1,4 +1,4 @@
-DNS déf: www.    .com  Système de traduction. Associe un nom de domaine à une adresse ip (pour ne pas entrer l'adresse ip dans la barre de navigation)
+DNS déf: (www.       .com)  Système de traduction. Associe un nom de domaine à une adresse ip (pour ne pas entrer l'adresse ip dans la barre de navigation)
 
 # Doc DNS
 
