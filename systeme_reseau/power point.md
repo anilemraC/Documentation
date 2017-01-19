@@ -13,3 +13,14 @@
 ° Un serveur comprend des logiciels (Apache, php, Mysql) qui fonctionnent ensemble. 
 
 ° Il permet de stocker les fichiers d’un site web et de contrôler la façon dont les utilisateurs peuvent y accéder.
+
+##Démarche utilisée pour installer l’ensemble
+° Recherche de tutoriels
+
+° Connexion au server avec un code ssh root@vpsxxx.ovh.net
+
+° apt get update, apt get upgrade, apt install apache2
+
+° Test →  /var/www/html/index.html
+
+° apt get install .php5
