@@ -1,4 +1,4 @@
-#PHP objet 10.2
+##PHP objet 10.2
 ```
 <title>Class and Object Methods</title>
   </head>
@@ -32,7 +32,7 @@
   </body>
 </html>
 ```
- #PHP objet 10.3
+ ##PHP objet 10.3
  ```
 <html>
   <head>
@@ -59,7 +59,7 @@
   </body>
 </html>
 ```
- #PHP objet 10.4
+ ##PHP objet 10.4
  ```
 <html>
   <head>
