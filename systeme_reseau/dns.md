@@ -8,7 +8,7 @@ Consigne
 d’îlot, vous devrez de plus configurer votre serveur pour que votre site soit accessible
 depuis celui-ci.
 
-Nom de domaine: code-closet.com
+Nom de domaine: code-closet.com -> c'est la racine
 
 Dans le compte OVH, onglet Zone DNS, puis carrés à droite DNS+ Ajouter une entrée
 Créer le sous-domaine "carmelina.code-closet.com" et le faire pointer (CNAME) sur code-closet.com
