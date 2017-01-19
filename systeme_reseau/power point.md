@@ -24,3 +24,13 @@
 ° Test →  /var/www/html/index.html
 
 ° apt get install .php5
+
+° Création d’un test pour le lancer sur le server et l’afficher dans le navigateur → nano test.php
+
+° apt get update, apt get upgrade, apt install my-sql-server
+
+° Changement du mot de passe pour Mysql, puis confirmation
+
+° Test → /etc/init.d/mysql status
+
+° SHOW DATABASE ;
