@@ -34,7 +34,7 @@
 </html>
 ```
 
- ###PHP objet 10.3
+ PHP objet 10.3
  
  ```
 <html>
@@ -62,7 +62,9 @@
   </body>
 </html>
 ```
- ##PHP objet 10.4
+
+ PHP objet 10.4
+ 
  ```
 <html>
   <head>
@@ -91,8 +93,11 @@
     </p>
   </body>
 </html>
-Raw
+```
+
  PHP objet 10.5
+ 
+ ```
 <html>
   <head>
     <title>Override!</title>
@@ -120,8 +125,12 @@ Raw
     </p>
   </body>
 </html>
-Raw
+
+```
+
  PHP objet 10.6
+ 
+ ```
 <html>
   <head>
     <title>Scope it Out!</title>
@@ -145,8 +154,11 @@ Raw
     </p>
   </body>
 </html>
-Raw
+
+```
  PHP objet 10.7
+ 
+ ```
 <html>
   <head>
     <title></title>
@@ -166,8 +178,11 @@ Raw
     </p>
   </body>
 </html>
-Raw
+
+```
  PHP objet 10.8
+ 
+ ```
 <html>
   <head>
     <title></title>
@@ -197,8 +212,11 @@ Raw
     </p>
   </body>
 </html>
-Raw
+```
+
  PHP objet 9.7
+ 
+ ```
 <!DOCTYPE html>
 <html>
 	<head>
@@ -220,8 +238,11 @@ Raw
       </p>
     </body>
 </html>
-Raw
+```
+
  PHP objet 9.8
+ 
+ ```
 <!DOCTYPE html>
 <html>
 	<head>
@@ -255,8 +276,11 @@ Raw
       </p>
     </body>
 </html>
-Raw
+```
+
  PHP objet 9.9
+ 
+ ```
 <!DOCTYPE html>
 <html>
     <head>
@@ -285,8 +309,11 @@ Raw
       </p>
     </body>
 </html>
-Raw
+```
+
  test.blade.php (liste message bdd)
+ 
+ ```
 test.blade.php
 
 @extends('pages.template.menu') 
