@@ -12,7 +12,7 @@ Nom de domaine: code-closet.com
 Dans le compte OVH, onglet Zone DNS, puis carrés à droite DNS+ Ajouter une entrée
 Créer le sous-domaine "carmelina.code-closet.com" et le faire pointer (CNAME) sur code-closet.com
 
-Sous-domaine déf: www.media.toto.com (sous-domaine de la racine www.toto.com)
+Sous-domaine déf: www.carmelina.code-closet.com (sous-domaine de la racine www.code-closet.com)
 
  Pour configurer le serveur:
 Dans bash -> connexion SSH: root@code-closet.com + mot de passe 2JCxOmxG
