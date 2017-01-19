@@ -1,5 +1,5 @@
 ##PHP objet
-###PHP objet 10.2
+PHP objet 10.2
 ```
 <title>Class and Object Methods</title>
   </head>
@@ -34,7 +34,7 @@
 </html>
 ```
 
- ###PHP objet 10.3
+ PHP objet 10.3
  
  ```
 <html>
@@ -63,7 +63,7 @@
 </html>
 ```
 
- ###PHP objet 10.4
+ PHP objet 10.4
  
  ```
 <html>
@@ -95,7 +95,7 @@
 </html>
 ```
 
- ###PHP objet 10.5
+ PHP objet 10.5
  
  ```
 <html>
@@ -128,7 +128,7 @@
 
 ```
 
- ###PHP objet 10.6
+ PHP objet 10.6
  
  ```
 <html>
@@ -156,7 +156,7 @@
 </html>
 
 ```
- ###PHP objet 10.7
+ PHP objet 10.7
  
  ```
 <html>
@@ -180,7 +180,7 @@
 </html>
 
 ```
- ###PHP objet 10.8
+ PHP objet 10.8
  
  ```
 <html>
@@ -214,7 +214,7 @@
 </html>
 ```
 
- ###PHP objet 9.7
+ PHP objet 9.7
  
  ```
 <!DOCTYPE html>
@@ -240,7 +240,7 @@
 </html>
 ```
 
- ###PHP objet 9.8
+ PHP objet 9.8
  
  ```
 <!DOCTYPE html>
@@ -278,7 +278,7 @@
 </html>
 ```
 
- ###PHP objet 9.9
+ PHP objet 9.9
  
  ```
 <!DOCTYPE html>
