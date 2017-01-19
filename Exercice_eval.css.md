@@ -34,7 +34,7 @@ h2
 }
 ```
 
- ##Exercice_eval.html.css.page1
+ Exercice_eval.html.css.page1
  ```
 <!DOCTYPE html>
 	<html lang="fr">
@@ -84,7 +84,7 @@ h2
 	</body>
 	</html>
 ```
- ##Exercice_eval.html.css.page2
+ Exercice_eval.html.css.page2
  ```
 <!DOCTYPE html>
 	<html lang="fr">
