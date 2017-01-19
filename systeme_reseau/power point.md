@@ -34,3 +34,15 @@
 ° Test → /etc/init.d/mysql status
 
 ° SHOW DATABASE ;
+
+° Copie du dossier Code_Closet : scp -R code-closet  /var/www/html
+
+° Changement des droits du dossier : chmod
+
+° Activation du mode Rewrite Apache (recherche Google) a2enmod rewrite : pour rechercher automatiquement la page index.php ; config dans .htaccess dans public laravel
+
+° Répertoire public → sites-enabled/000-default.conf
+
+° Debug var/log/apache2/error.log → laravel.log
+
+° Configurer Apache (dans le virtualhost) pour arriver sur  var/www/html/../public/index.php
