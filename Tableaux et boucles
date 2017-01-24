@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <!-- Section 1 -->
+            <div>
+                <h2>Légumes de la ratatouille</h2>
+                <ul id="s1_legumes">
+
+                </ul>
+                <p>la recette de la ratatouille contient <b><span id="s1_nbrlegumes"></span> legumes</b></p>
+
+                <script type="text/javascript">
+                    var ratatouille = ['aubergines', 'courgettes', 'poivrons', 'oignons', 'tomates'];
+
+                    afficheRatatouille(ratatouille); // ne pas modifier 
+
+                    var nbrLegumes = afficheNbrLegumes(ratatouille); // Utiliser une fonction pour affecter la bonne valeur à la variable nbrLegumes.
+                    function afficheNbrLegumes(x){ //Je déclare la fonction avec le paramètre x
+                        return x.length; // Je veux que la fonction me retourne la longueur du paramètre (ici, le nombre d'éléments du tableau)
+                    }
+                    
+                    document.getElementById("s1_nbrlegumes").innerHTML = nbrLegumes; // ne pas modifier 
+
+                </script>
+            </div>
+            <!-- fin de la section 1 -->
+
+            <hr />
+
+            <!-- Section 2 -->
+            <div>
+                <h2>Un petit compte à rebours</h2>
+
+                <p><span id="countDownFrom10"></span></p>
+                <p><span id="countDownto20"></span></p>
+
+                <script type="text/javascript">
+                    var countDownFrom10 = document.getElementById("countDownFrom10");
+                    for(i = 10; i >= 0; i--){
+                        countDownFrom10.innerHTML = countDownFrom10.innerHTML + '  ' + i; // ne pas modifier 
+                    }
+
+                    var countDownFrom10 = document.getElementById("countDownto20");
+                    // réaliser ici une bouble for pour faire un compteur de 0 à 20
+                    for(i = 0; i <= 20; i++){
+                        countDownto20.innerHTML = countDownto20.innerHTML + '  ' + i;
+                    }
+
+                </script>
+                
+            </div>
+            <!-- fin de la section 2 -->
+
+            <hr />
+
+            <!-- Section 3 -->
+            <div>
+                <h2>Blanche neige et les 7 nains</h2>
+                <ul id="s2_nains">
+
+                </ul>
+
+                <script type="text/javascript">
+                    var nains = ['Prof', 'Atchoum', 'Dormeur', 'Grincheux', 'Joyeux', 'Timide', 'Simplet']; // déclarer ici la variable nains contenant la liste des nains 
+                    var ulNains = document.getElementById('s2_nains');
+                    for(i = 0; i < nains.length; i++){
+                        
+                    /* Code JS à utiliser dans votre boucle pour créer un élément <li> */
+                        var liNain = document.createElement('li'); // Creation d'un nouvel élément HTML <li>
+                        liNain.appendChild(document.createTextNode(nains[i])); // Affectation du contenu texte à l'élément <li> précédement défini.
+                        ulNains.appendChild(liNain); // Ajout du <li> au <ul> 
+                    /* fin de code JS pour créer un élément <li> */
+                    
+                    }
+                </script>
+            </div>
+            <!-- fin de la section 3 -->
+
+            <hr />
+
+             <!-- Section 4 -->
+            <div>
+                <h2>Top 14.</h2>
+                <h3>Classement général</h3>
+                <ol id="s4_generale"></ol>
+
+                <h3>3 premières</h3>
+                <ol id="s4_first"></ol>
+
+                <h3>3 dernières</h3>
+                <ol id="s4_last"></ol>
+
+                <h3>Listes des équipes par ordre alphabétique</h3>
+                <ol id="s4_listAlphabetique"></ol>
+
+
+                <script type="text/javascript">
+                    var classement = ['Clermont', 'Montpellier',  'Toulon',  'La Rochelle', 'Castres', 'Bordeaux-Bègles', 'Toulouse', 'Racing 92', 'Paris', 'Brive', 'Pau', 'Lyon', 'Bayonne', 'Grenoble']; // ne pas modifier 
+                    /* votre code ici*/
+                    var olClassement = document.getElementById('s4_generale');
+                    for(i = 0; i < classement.length; i++){
+
+                        var liClassement = document.createElement('li');
+                        liClassement.appendChild(document.createTextNode(classement[i]));
+                        olClassement.appendChild(liClassement);
+                }
+
+                    var olClassement = document.getElementById('s4_first');
+                    for(i = 0; i < 3; i++){
+
+                        var liClassement = document.createElement('li');
+                        liClassement.appendChild(document.createTextNode(classement[i]));
+                        olClassement.appendChild(liClassement);
+                }
+
+                    var olClassement = document.getElementById('s4_last');
+                    for(i = classement.length - 3; i < classement.length; i++){
+
+                        var liClassement = document.createElement('li');
+                        liClassement.appendChild(document.createTextNode(classement[i]));
+                        olClassement.appendChild(liClassement);  
+                }
+                    
+                    var olClassement = document.getElementById('s4_listAlphabetique');
+                    function listeAlphabetique(){
+                        classement.sort();
+                    }
+                    listeAlphabetique();
+                    for(i = 0; i < classement.length; i++){
+                        var liClassement = document.createElement('li');
+                        liClassement.appendChild(document.createTextNode(classement[i]));
+                        olClassement.appendChild(liClassement);  
+                }
+
+                </script>
+
+            </div>
+            <!-- fin de la section 4 -->
+
+        </div>
+    </body>
+</html>
