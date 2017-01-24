@@ -171,6 +171,8 @@
 
 		</body>
 	</html>
+	
+	```
   
   function surligne(champ, erreur)
 			{
@@ -268,3 +270,5 @@
 					return true;
 				}
 			}
+
+```
