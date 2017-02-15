@@ -1,0 +1,8 @@
+Le référencement naturel est celui des moteurs de recherche. Il se fait sur des expressions constituées de mots-clés (3 ou 4).
+Google affiche les résultats les plus pertinents possibles, il référence des pages et non un site.
+Un site non mis à jour régulièrement et/ou avec des fautes d'orthographe, est moins bien positionné.
+Il y a des éléments dans le code HTML qui ont plus d'importance que d'autres dans le référencement:
+  - balises Meta -> 1 pour chaque page
+      * "title"
+      * "description" (mots-clés pour optimiser la page)
+  - organisation de la page
