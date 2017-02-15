@@ -12,4 +12,5 @@ Il y a des éléments dans le code HTML qui ont plus d'importance que d'autres d
   - organisation de la page -> les éléments importants doivent être au-dessus de la ligne de flottaison
       * balises: H1 pour les titres de pages, H2 pour les titres de chapitres (paragraphes)
       * du gras (mais pas trop)
-      * des liens (mots) vers d'autres sites (maillage externe) => très important, vers son propre site (maillage interne)
+      * des liens (mots) vers d'autres sites (maillage externe), vers son propre site (maillage interne)
+      => plus j'ai de prescripteurs (liens d'autres sites), plus je suis "intéressant"
