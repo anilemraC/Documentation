@@ -136,3 +136,4 @@ Compétences à valider:
 
 Mettre en place des ombrages, du dégradé et de la transparence
 Positionner des éléments avec CSS
+Positionner des éléments avec CSS
