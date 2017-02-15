@@ -1,6 +1,7 @@
 UTILISER LES SPECIFICITES DES BALISES HTML5
 
 DOCTYPE: obligatoire, premier élément de la page
+HEAD: encodage (balise meta ou charset), titre, liens, scripts
 HEADER: permet d'introduire une page, section
 NAV: pour mettre des liens permettant d'accéder à d'autres pages du site, ou d'autres contenus de la page
 ASIDE: bannière pub, liens vers l'extérieur
