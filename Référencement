@@ -4,5 +4,6 @@ Un site non mis à jour régulièrement et/ou avec des fautes d'orthographe, est
 Il y a des éléments dans le code HTML qui ont plus d'importance que d'autres dans le référencement:
   - balises Meta -> 1 pour chaque page
       * "title"
-      * "description" (mots-clés pour optimiser la page)
-  - organisation de la page
+      * "description", placée après title et avant head (mots-clés pour optimiser la page)
+  - organisation de la page -> les éléments importants doivent être au-dessus de la ligne de flottaison
+      * balises: H1 pour les titres de pages, H2 pour les titres de chapitres, paragraphes
