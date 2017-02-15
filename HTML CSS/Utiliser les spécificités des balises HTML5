@@ -1,7 +1,8 @@
 UTILISER LES SPECIFICITES DES BALISES HTML5
 
-HEADER: 
-NAV: 
-ASIDE: 
-ARTICLE: 
-FOOTER: 
+DOCTYPE: obligatoire, premier élément de la page
+HEADER: permet d'introduire une page, section
+NAV: pour mettre des liens permettant d'accéder à d'autres pages du site, ou d'autres contenus de la page
+ASIDE: bannière pub, liens vers l'extérieur
+ARTICLE: section dans laquelle on peut mettre texte, images, video, formulaire
+FOOTER: pied de page, ou de section
