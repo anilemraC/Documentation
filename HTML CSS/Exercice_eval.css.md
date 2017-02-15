@@ -75,20 +75,30 @@ section
 
 		<h2>Mon exercice d'évaluation</h2>
 
+		
 		<ul>
 			<li>html</li>
 			<li>css</li>
 			<li>...et compagnie</li>
-		</ul>
-		<ol>
-			<li>doctype</li>
-			<li>html</li>
-			<li>head</li>
-			<li>body</li>
-		</ol>
-		<p>J'ai visité le site <a href="http://openclassrooms.com">OpenClassrooms</a>
-		<br>
-		Il est très bien fait.</p>
+		</ul><br>
+		
+		<nav>
+			<ol>
+				<li>doctype</li>
+				<li>html</li>
+				<li>head</li>
+				<li>body</li>
+			</ol>
+		</nav><br>
+		
+		<br><section>
+			<aside>
+				<p>J'ai visité le site <a href="http://openclassrooms.com">OpenClassrooms</a>
+				<br>
+				Il est très bien fait.</p>
+			</aside>
+		</section>
+
 		<br>
 		<p>J'ai fait une page 2 pour m'entraîner à faire des liens ! <a href="exercice_eval_page2.html" title="On va se marrer !">ici</a></p>
 		
