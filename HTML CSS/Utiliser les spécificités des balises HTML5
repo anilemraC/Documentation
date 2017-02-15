@@ -1,5 +1,7 @@
-un en-tête de page : HEADER
-une barre de navigation : NAV
-une colonne de gauche : ASIDE
-une zone principale pour le contenu : ARTICLE
-un pied de page : FOOTER
+UTILISER LES SPECIFICITES DES BALISES HTML5
+
+HEADER: 
+NAV: 
+ASIDE: 
+ARTICLE: 
+FOOTER: 
