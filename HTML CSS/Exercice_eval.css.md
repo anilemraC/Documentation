@@ -14,7 +14,7 @@ p
 {
     background-color: black;
     color: white;
-    opacity: 0.3;
+    opacity: 0.5;
 }
 
 header{
@@ -25,12 +25,25 @@ header{
 
 p
 {
-    box-shadow: 6px 6px 0px red;
+    box-shadow: 16px 16px 0px yellow;
 }
 
 h2
 {
     text-shadow: 2px 2px 4px black;
+}
+
+nav
+{
+    float: left;
+    width: 150px;
+    border: 1px solid black;
+}
+
+section
+{
+    margin-left: 170px;
+    border: 1px solid blue;
 }
 ```
 
