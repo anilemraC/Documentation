@@ -135,5 +135,5 @@ anilemraC commented 2 days ago
 Compétences à valider:
 
 Mettre en place des ombrages, du dégradé et de la transparence
-Positionner des éléments avec CSS
+Utiliser les spécificités des balises HTML5
 Positionner des éléments avec CSS
