@@ -1,0 +1,4 @@
+Cordova est un plugin open-source qui fournit une interface JavaScript entre le smartphone et l'application. 
+Cela permet à l'application d'utiliser les capacités du périphérique natif au-delà de ce qui existe pour 
+les applications web (capteurs, données, état du réseau).
+Une application Cordova a une architecture à plusieurs éléments.
