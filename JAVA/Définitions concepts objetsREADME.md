@@ -1,9 +1,11 @@
-DEFINITIONS DES DIFFERENT CONCEPTS OBJETS
+DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
 Objet:
 
-Attribut: variable 
+Attribut/propriété:  
 
 Méthode: 
 
 Class: composée d'attributs et de méthodes
+
+Paramètres/arguments: 
