@@ -26,5 +26,9 @@ Encapsulation: permet de limiter l'accès à certains éléments d'une class (at
 Surcharge: on garde le nom d'une méthode de la class mère et on surcharge la méthode dans notre class héritée 
 pour spécifier le type de la méthode initiale.
 
-Polymorphisme:
+Polymorphisme: 
+- dans le cas de class héritées 
+--> la méthode de la class mère n'a pas de paramètre et la méthode propre à chaque class est inctanciée différemment
+- dans le cas de class non héritées 
+--> une méthode commune est instanciée différemment 
 
