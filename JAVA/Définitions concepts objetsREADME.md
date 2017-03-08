@@ -17,6 +17,7 @@ Constructeur: méthode spécifique pour construire un objet en initialisant ses 
 Paramètres/Arguments: 
 
 Encapsulation: permet de limiter l'accès à certains éléments d'une class (attributs), grâce à:
-- "public"--> utilisable depuis le reste du programme 
-- "private" --> uniquement utilisable depuis les méthodes de la class elle-même
+- public--> utilisable depuis le reste du programme 
+- private --> uniquement utilisable depuis les méthodes de la class elle-même
+- protected --> utilisable dans la class et dans les class héritées
 
