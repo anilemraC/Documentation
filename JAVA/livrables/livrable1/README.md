@@ -16,6 +16,8 @@ Constructeur: méthode spécifique pour construire un objet en initialisant ses 
 
 Paramètre/Argument: donnée d'une méthode.
 
+Héritage:
+
 Encapsulation: permet de limiter l'accès à certains éléments d'une class (attributs), grâce à:
 - public--> utilisable depuis le reste du programme 
 - private --> uniquement utilisable depuis les méthodes de la class elle-même
