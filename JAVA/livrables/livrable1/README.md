@@ -9,14 +9,14 @@ Identité: l'objet possède une identité pour les distinguer des autres objets.
 
 Attribut/Propriété: élément d'une class, caractérise l'objet, on ajoute des propriétés à la class.
 
-Méthode: ensemble des actions à réaliser par l'objet. Ajoutée à la classe, comprend des paramètres. 
+Méthode: ensemble des actions à réaliser par l'objet. Elle est définie dans la classe et comprend des paramètres. 
 Les actions de la méthode sont liées aux attributs car elles peuvent dépendre des valeurs des attributs.
 
 Constructeur: méthode spécifique pour construire un objet en initialisant ses attributs.
 
 Paramètre/Argument: donnée d'une méthode.
 
-Héritage: grâce à extends une class héritée reprend les attributs et méthodes associés à la class de base.
+Héritage: grâce à extends une class hérite des attributs et méthodes associés à la class de base.
 
 Encapsulation: permet de limiter l'accès à certains éléments d'une class (attributs), grâce à:
 - public--> utilisable depuis le reste du programme 
