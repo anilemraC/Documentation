@@ -12,5 +12,7 @@ Attribut/Propriété: caractérise l'objet, on ajoute des propriétés à la cla
 Méthode: ensemble des actions à réaliser par l'objet. Ajoutée à la classe, comprend des paramètres. 
 Les actions de la méthode sont liées aux attributs car elles peuvent dépendre des valeurs des attributs.
 
+Constructeur: méthode spécifique pour construire un objet en initialisant ses attributs.
+
 Paramètres/Arguments: 
 
