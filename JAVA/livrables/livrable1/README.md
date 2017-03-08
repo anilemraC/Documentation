@@ -21,3 +21,7 @@ Encapsulation: permet de limiter l'accès à certains éléments d'une class (at
 - private --> uniquement utilisable depuis les méthodes de la class elle-même
 - protected --> utilisable dans la class et dans les class héritées
 
+Surcharge:
+
+Polymorphisme:
+
