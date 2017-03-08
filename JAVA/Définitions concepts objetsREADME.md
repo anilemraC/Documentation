@@ -1,12 +1,12 @@
 DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
-Objet/Instance:
+Class: mot-clé pour définir les class composées d'attributs et de méthodes
 
-Attribut/Propriété:  
+Objet/Instance: on crée les objets à l'aide de class
 
-Méthode: 
+Attribut/Propriété: on ajoute des propriétés à la class
 
-Class: composée d'attributs et de méthodes
+Méthode: ajoutée à la classe, comprenant des paramètres
 
 Paramètres/Arguments: 
 
