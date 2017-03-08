@@ -1,11 +1,12 @@
 DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
-Objet:
+Objet/Instance:
 
-Attribut/propriété:  
+Attribut/Propriété:  
 
 Méthode: 
 
 Class: composée d'attributs et de méthodes
 
-Paramètres/arguments: 
+Paramètres/Arguments: 
+
