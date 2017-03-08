@@ -1,20 +1,20 @@
 DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
 
-Class: mot-clé pour définir les class, composées d'attributs et de méthodes (regroupement de données et de traitements)
+Class: mot-clé pour définir les class composées d'attributs et de méthodes (regroupement de données et de traitements).
 
 Objet/Instance: définit la class, on crée les objets à l'aide de class.
 
 Identité: l'objet possède une identité pour les distinguer des autres objets.
 
-Attribut/Propriété: élément d'une class, caractérise l'objet, on ajoute des propriétés à la class
+Attribut/Propriété: élément d'une class, caractérise l'objet, on ajoute des propriétés à la class.
 
 Méthode: ensemble des actions à réaliser par l'objet. Ajoutée à la classe, comprend des paramètres. 
 Les actions de la méthode sont liées aux attributs car elles peuvent dépendre des valeurs des attributs.
 
 Constructeur: méthode spécifique pour construire un objet en initialisant ses attributs.
 
-Paramètres/Arguments: 
+Paramètre/Argument: donnée d'une méthode.
 
 Encapsulation: permet de limiter l'accès à certains éléments d'une class (attributs), grâce à:
 - public--> utilisable depuis le reste du programme 
