@@ -20,9 +20,6 @@ Les actions de la méthode sont liées aux attributs car elles peuvent dépendre
 Constructeur: méthode spécifique pour construire un objet en initialisant ses attributs.
 
 
-Instanciation:
-
-
 Paramètre/Argument: donnée d'une méthode.
 
 
