@@ -16,7 +16,7 @@ Constructeur: méthode spécifique pour construire un objet en initialisant ses 
 
 Paramètre/Argument: donnée d'une méthode.
 
-Héritage:
+Héritage: grâce à extends une class héritée reprend les attributs et méthodes associés à la class de base.
 
 Encapsulation: permet de limiter l'accès à certains éléments d'une class (attributs), grâce à:
 - public--> utilisable depuis le reste du programme 
