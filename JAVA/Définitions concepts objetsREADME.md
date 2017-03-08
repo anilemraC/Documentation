@@ -2,7 +2,9 @@ DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
 Class: mot-clé pour définir les class composées d'attributs et de méthodes
 
-Objet/Instance: définit la class, on crée les objets à l'aide de class
+Objet/Instance: définit la class, on crée les objets à l'aide de class.
+
+Identité: l'objet possède une identité pour les distinguer des autres objets.
 
 Attribut/Propriété: caractérise l'objet, on ajoute des propriétés à la class
 
