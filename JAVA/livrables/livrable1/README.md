@@ -23,7 +23,8 @@ Encapsulation: permet de limiter l'accès à certains éléments d'une class (at
 - private --> uniquement utilisable depuis les méthodes de la class elle-même
 - protected --> utilisable dans la class et dans les class héritées
 
-Surcharge:
+Surcharge: on garde le nom d'une méthode de la class mère et on surcharge la méthode dans notre class héritée 
+pour spécifier le type de la méthode initiale.
 
 Polymorphisme:
 
