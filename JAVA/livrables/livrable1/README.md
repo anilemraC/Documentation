@@ -1,7 +1,7 @@
 DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
 
-Class: mot-clé pour définir les class composées d'attributs et de méthodes (regroupement de données et de traitements).
+Class: mot-clé pour définir les class composées d'attributs et de méthodes (regroupement de données et de traitements). 
 
 
 Objet/Instance: définit la class, on crée les objets à l'aide de class.
