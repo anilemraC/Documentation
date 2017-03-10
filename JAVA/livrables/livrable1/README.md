@@ -42,3 +42,14 @@ Polymorphisme: permet de manipuler des objets sans connaître le type
 - dans le cas de class non héritées 
 --> une méthode commune est instanciée différemment 
 
+ARRAY LIST:
+
+    1) créer :
+        composée d'un mot-clé(ArrayList), d'un type de données entre <> (Integer, String...), et d'un nom.
+        Le tout est = une nouvelle ArrayList
+        - exemple : ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
+        
+    
+      
+
+
