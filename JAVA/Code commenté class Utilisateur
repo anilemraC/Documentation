@@ -1,1 +1,47 @@
 
+public class Utilisateur {
+    
+    private String nom;
+    private String prenom;
+    private int birthDate;
+   
+// Constructeurs  
+    /**
+     * Création d'un nouvel utilisateur sans paramètre
+     * @author carmelina.napolitano
+     */
+public Utilisateur(){
+        System.out.println("Nouvel utilisateur (sans param)");
+        nom = "Ymorphisme";
+        prenom = "Paul";
+        birthDate = 44;
+        
+}
+     /**
+     * Création d'un nouvel utilisateur 
+     * @author carmelina.napolitano
+     */
+public Utilisateur(String npltn, String mel) {
+       
+    System.out.println("Nouvel utilisateur avec 2 paramètres"); 
+    nom = npltn;
+    prenom = mel;
+}
+    
+      /**
+     * Création d'un nouvel utilisateur qui entre ses paramètres
+     * @param nm
+     *          Le nom du nouvel utilisateur
+     * @param prnm
+     *          Le prénom du nouvel utilisateur
+     * @param brthDt
+     *          L'année de naissance du nouvel utilisateur
+     * @author carmelina.napolitano
+     */
+public Utilisateur(String nm, String prnm, int brthDt){
+       System.out.println("Nouvel utilisateur avec 3 paramètres"); 
+       nom = nm;
+       prenom = prnm;
+       birthDate = brthDt;
+       
+}
