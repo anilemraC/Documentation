@@ -3,6 +3,8 @@ DEFINITIONS DES DIFFERENTS CONCEPTS OBJETS
 
 Class: mot-clé pour définir les class composées d'attributs et de méthodes (regroupement de données et de traitements). 
 
+Class abstraite: on ne peut pas l'instancier.
+
 
 Objet/Instance: définit la class, on crée les objets à l'aide de class.
 
