@@ -8,6 +8,7 @@ PHP objet 10.2
       <?php
         class Person {
           public $isAlive = true;
+	  public $name;
           
           function __construct($name) {
               $this->name = $name;
